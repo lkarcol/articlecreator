@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.9eaa5c23.chunk.js",
-    "main.js.map": "/static/js/main.9eaa5c23.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09ada709.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09ada709.js.map",
-    "static/js/2.8d6d9db1.chunk.js": "/static/js/2.8d6d9db1.chunk.js",
-    "static/js/2.8d6d9db1.chunk.js.map": "/static/js/2.8d6d9db1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7521f14f477b351fef2184051fe2da34.js": "/precache-manifest.7521f14f477b351fef2184051fe2da34.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.8d6d9db1.chunk.js.LICENSE": "/static/js/2.8d6d9db1.chunk.js.LICENSE"
+    "main.js": "/articlecreator/static/js/main.42b67b19.chunk.js",
+    "main.js.map": "/articlecreator/static/js/main.42b67b19.chunk.js.map",
+    "runtime-main.js": "/articlecreator/static/js/runtime-main.cd75374e.js",
+    "runtime-main.js.map": "/articlecreator/static/js/runtime-main.cd75374e.js.map",
+    "static/js/2.0299f612.chunk.js": "/articlecreator/static/js/2.0299f612.chunk.js",
+    "static/js/2.0299f612.chunk.js.map": "/articlecreator/static/js/2.0299f612.chunk.js.map",
+    "index.html": "/articlecreator/index.html",
+    "precache-manifest.2242e0dbbb80d30b46ca18e5d83a43d9.js": "/articlecreator/precache-manifest.2242e0dbbb80d30b46ca18e5d83a43d9.js",
+    "service-worker.js": "/articlecreator/service-worker.js",
+    "static/js/2.0299f612.chunk.js.LICENSE": "/articlecreator/static/js/2.0299f612.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.09ada709.js",
-    "static/js/2.8d6d9db1.chunk.js",
-    "static/js/main.9eaa5c23.chunk.js"
+    "static/js/runtime-main.cd75374e.js",
+    "static/js/2.0299f612.chunk.js",
+    "static/js/main.42b67b19.chunk.js"
   ]
 }
